@@ -5,8 +5,8 @@
 #include<Wire.h>
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-const char* ssid = "admin";//Replace with your network SSID
-const char* password = "12345678";//Replace with your network password
+const char* ssid = "Akashfasate";//Replace with your network SSID
+const char* password = "#Akash24";//Replace with your network password
 
 ESP8266WebServer server(80);
 
